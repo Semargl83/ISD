@@ -1,0 +1,7 @@
+D:\ICD\Classes\Tasc1\bin\Debug\Tasc1.exe.config
+D:\ICD\Classes\Tasc1\bin\Debug\Tasc1.exe
+D:\ICD\Classes\Tasc1\bin\Debug\Tasc1.pdb
+D:\ICD\Classes\Tasc1\obj\Debug\Tasc1.csprojAssemblyReference.cache
+D:\ICD\Classes\Tasc1\obj\Debug\Tasc1.csproj.CoreCompileInputs.cache
+D:\ICD\Classes\Tasc1\obj\Debug\Tasc1.exe
+D:\ICD\Classes\Tasc1\obj\Debug\Tasc1.pdb
