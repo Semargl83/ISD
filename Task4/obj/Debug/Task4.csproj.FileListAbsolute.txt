@@ -1,7 +1,0 @@
-D:\ICD\Classes\Task4\bin\Debug\Task4.exe.config
-D:\ICD\Classes\Task4\bin\Debug\Task4.exe
-D:\ICD\Classes\Task4\bin\Debug\Task4.pdb
-D:\ICD\Classes\Task4\obj\Debug\Task4.csprojAssemblyReference.cache
-D:\ICD\Classes\Task4\obj\Debug\Task4.csproj.CoreCompileInputs.cache
-D:\ICD\Classes\Task4\obj\Debug\Task4.exe
-D:\ICD\Classes\Task4\obj\Debug\Task4.pdb

@@ -1,6 +1,0 @@
-D:\ICD\Classes\Tasc3\bin\Debug\Tasc3.exe.config
-D:\ICD\Classes\Tasc3\bin\Debug\Tasc3.exe
-D:\ICD\Classes\Tasc3\bin\Debug\Tasc3.pdb
-D:\ICD\Classes\Tasc3\obj\Debug\Task3.csproj.CoreCompileInputs.cache
-D:\ICD\Classes\Tasc3\obj\Debug\Tasc3.exe
-D:\ICD\Classes\Tasc3\obj\Debug\Tasc3.pdb

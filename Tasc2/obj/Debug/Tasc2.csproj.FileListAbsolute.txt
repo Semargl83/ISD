@@ -1,7 +1,0 @@
-D:\ICD\Classes\Tasc2\bin\Debug\Tasc2.exe.config
-D:\ICD\Classes\Tasc2\bin\Debug\Tasc2.exe
-D:\ICD\Classes\Tasc2\bin\Debug\Tasc2.pdb
-D:\ICD\Classes\Tasc2\obj\Debug\Tasc2.csprojAssemblyReference.cache
-D:\ICD\Classes\Tasc2\obj\Debug\Tasc2.csproj.CoreCompileInputs.cache
-D:\ICD\Classes\Tasc2\obj\Debug\Tasc2.exe
-D:\ICD\Classes\Tasc2\obj\Debug\Tasc2.pdb

@@ -1,7 +1,0 @@
-D:\ICD\Classes\Task5\bin\Debug\Task5.exe.config
-D:\ICD\Classes\Task5\bin\Debug\Task5.exe
-D:\ICD\Classes\Task5\bin\Debug\Task5.pdb
-D:\ICD\Classes\Task5\obj\Debug\Task5.csprojAssemblyReference.cache
-D:\ICD\Classes\Task5\obj\Debug\Task5.csproj.CoreCompileInputs.cache
-D:\ICD\Classes\Task5\obj\Debug\Task5.exe
-D:\ICD\Classes\Task5\obj\Debug\Task5.pdb
