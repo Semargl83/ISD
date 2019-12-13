@@ -1,0 +1,76 @@
+﻿<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="utf-8" />
+    <link href="Style.css" rel="stylesheet" />
+    <title></title>
+</head>
+<body>
+    <form>
+        <p><h3>Checkout form</h3></p>
+        
+        <fieldset class="user-info">
+            <input type="text" class="first_name" name="First name" placeholder="First name" required>
+            <input type="text" class="last_name" placeholder="Last name" required>
+            <br>
+            <input type="email" class="email" placeholder="E-mail" required>
+            <input type="tel" class="phone" name="Phone" placeholder="Phone" required>
+        </fieldset>
+
+        <fieldset class="card-info">
+            <select>
+                <option>Country</option>
+                <option value="USA">USA</option>
+                <option value="Ukraine">Ukraine</option>
+                <option value="France">France</option>
+                <option value="Italy">Italy</option>
+                <option value="Germany">Germany</option>
+                <option value="Poland">Poland</option>
+                <option value="Подгороднее">Подгороднее</option>
+            </select>
+            <input type="text" class="city" name="City" placeholder="City">
+            <input type="text" class="postcode" name="PostCode" placeholder="Post code">
+            <br>
+            <input type="text" class="address" name="AdditionalInfo" placeholder="Address">
+            <br>
+            <textarea rows="5" cols="45" placeholder="Additional info"></textarea>
+        </fieldset>
+
+        <fieldset class="card-info">
+            <input type="radio" class="r_button" id="visa" name="Cards" value="visa" checked>
+            <label class="cards" for="visa">Visa</label>
+            <input type="radio" class="r_button" id="mastercard" name="Cards" value="mastercard">
+            <label class="cards" for="mastercard">MasterCard</label>
+            <input type="radio" class="r_button" id="paypal" name="Cards" value="paypal">
+            <label class="cards" for="paypal">PayPal</label>
+            <br>
+            <input type="text" class="cardname" name="CardName" placeholder="Name on card">
+            <br>
+            <input type="text" class="cardnumb" name="CardNumber" placeholder="Card nambered">
+            <input type="text" class="cvv" name="" placeholder="CVV2">
+            <br>
+            <label class="expiration" for="month" >Expiration data</label>
+            <select name="month" id="month">
+                <option disabled>Month</option>
+                <option value="January">January</option>
+                <option value="February">February</option>
+                <option value="March">March</option>
+                <option value="April">April</option>
+                <option value="May">May</option>
+                <option value="June">June</option>
+                <option value="July">July</option>
+                <option value="August">August</option>
+                <option value="September">September</option>
+                <option value="October">October</option>
+                <option value="Novembe">Novembe</option>
+                <option value="December">December</option>
+            </select>
+            <input type="text" class="year" name="year" placeholder="Year">
+        </fieldset>
+
+        <div class="form-footer">
+            <button class="submit-btn" type="submit">Continue</button>
+        </div>
+    </form>
+</body>
+</html>
