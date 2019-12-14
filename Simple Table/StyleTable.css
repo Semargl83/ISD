@@ -1,0 +1,28 @@
+﻿table {
+    width: 100%; /* Ширина таблицы */
+    border-collapse: collapse; /* Убираем двойные линии между ячейками */
+font-size:22px;
+cursor:pointer;
+}
+
+td, th {
+    padding: 4px; /* Поля вокруг содержимого таблицы */
+    border: 1px solid #000; /* Параметры рамки */
+}
+
+th {
+    background: #afd792; /* Цвет фона */
+    color: #333; /* Цвет текста */
+}
+
+tr.color_swap:hover {
+    background: #f3bd48; /* Цвет фона при наведении */
+    color: #fff; /* Цвет текста при наведении */
+}
+
+tr.nocolor:hover {
+    background: #f3bd48; /* Цвет фона при наведении */
+    color: #fff; /* Цвет текста при наведении */
+}
+
+
