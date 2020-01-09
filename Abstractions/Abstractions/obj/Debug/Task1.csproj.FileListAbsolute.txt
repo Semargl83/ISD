@@ -1,0 +1,6 @@
+E:\Обучение С#\ISD\Abstractions\Abstractions\bin\Debug\Abstractions.exe.config
+E:\Обучение С#\ISD\Abstractions\Abstractions\bin\Debug\Abstractions.exe
+E:\Обучение С#\ISD\Abstractions\Abstractions\bin\Debug\Abstractions.pdb
+E:\Обучение С#\ISD\Abstractions\Abstractions\obj\Debug\Task1.csprojAssemblyReference.cache
+E:\Обучение С#\ISD\Abstractions\Abstractions\obj\Debug\Abstractions.exe
+E:\Обучение С#\ISD\Abstractions\Abstractions\obj\Debug\Abstractions.pdb

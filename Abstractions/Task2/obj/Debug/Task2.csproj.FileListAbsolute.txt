@@ -1,0 +1,5 @@
+E:\Обучение С#\ISD\Abstractions\Task2\bin\Debug\Task2.exe.config
+E:\Обучение С#\ISD\Abstractions\Task2\bin\Debug\Task2.exe
+E:\Обучение С#\ISD\Abstractions\Task2\bin\Debug\Task2.pdb
+E:\Обучение С#\ISD\Abstractions\Task2\obj\Debug\Task2.exe
+E:\Обучение С#\ISD\Abstractions\Task2\obj\Debug\Task2.pdb

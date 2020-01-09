@@ -1,0 +1,6 @@
+E:\Обучение С#\ISD\Struct\Struct\bin\Debug\Struct.exe.config
+E:\Обучение С#\ISD\Struct\Struct\bin\Debug\Struct.exe
+E:\Обучение С#\ISD\Struct\Struct\bin\Debug\Struct.pdb
+E:\Обучение С#\ISD\Struct\Struct\obj\Debug\Task1.csprojAssemblyReference.cache
+E:\Обучение С#\ISD\Struct\Struct\obj\Debug\Struct.exe
+E:\Обучение С#\ISD\Struct\Struct\obj\Debug\Struct.pdb
