@@ -1,6 +1,0 @@
-E:\Обучение С#\ISD\Struct\Task4\bin\Debug\Task4.exe.config
-E:\Обучение С#\ISD\Struct\Task4\bin\Debug\Task4.exe
-E:\Обучение С#\ISD\Struct\Task4\bin\Debug\Task4.pdb
-E:\Обучение С#\ISD\Struct\Task4\obj\Debug\Task4.exe
-E:\Обучение С#\ISD\Struct\Task4\obj\Debug\Task4.pdb
-E:\Обучение С#\ISD\Struct\Task4\obj\Debug\Task4.csprojAssemblyReference.cache
