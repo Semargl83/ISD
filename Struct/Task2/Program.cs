@@ -10,7 +10,7 @@ namespace Task2
     {
         static void Main(string[] args)
         {
-            Train[] trains = new Train[8];
+            Train[] trains = new Train[4];
             for (int i = 0; i < trains.Length; i++)
             {
                 try
@@ -26,40 +26,31 @@ namespace Task2
                     Console.WriteLine("Не верный формат ввода");break;
                 }
             }
-
-            //trains[trains.Length].TrainSort(trains);    не захотело работать
-
-            int temp;
-            for (int i = 0; i < trains.Length - 1; i++)
-            {
-                for (int j = i + 1; j < trains.Length; j++)
-                {
-                    if (trains[i].numberTrain > trains[j].numberTrain)
-                    {
-                        temp = trains[i].numberTrain;
-                        trains[i].numberTrain = trains[j].numberTrain;
-                        trains[j].numberTrain = temp;
-                    }
-                }
-
-            }
-            Console.Write("Введите номер интересующего Вас поезда: ");
-            int input = Int32.Parse(Console.ReadLine());
-
+            Console.WriteLine();
+            Train.TrainSort(trains);                       // вызов сортировки
             foreach (Train item in trains)
             {
-                if (input == item.numberTrain)
+                item.showTrain();
+            }              //показать сортировку
+             
+            Console.Write("\nВведите номер интересующего Вас поезда: ");
+            int input = Int32.Parse(Console.ReadLine());
+            bool flag = true;
+
+            for (int i = 0; i < trains.Length; i++)
+            {
+                if (trains[i].numberTrain == input)
                 {
-                    item.showTrain();
-                }
-                else
-                {
-                    Console.WriteLine("Запрашиваемого поезда нет в базе");
-                }
+                    trains[i].showTrain();
+                    flag = false;
+                }                
+            }
+           if(flag)
+            {
+                Console.WriteLine("Запрашиваемого поезда нет в базе");
             }
 
             Console.ReadLine();
-
         }
     }
 }

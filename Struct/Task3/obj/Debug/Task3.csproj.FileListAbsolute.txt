@@ -1,0 +1,6 @@
+E:\Обучение С#\ISD\Struct\Task3\bin\Debug\Task3.exe.config
+E:\Обучение С#\ISD\Struct\Task3\bin\Debug\Task3.exe
+E:\Обучение С#\ISD\Struct\Task3\bin\Debug\Task3.pdb
+E:\Обучение С#\ISD\Struct\Task3\obj\Debug\Task3.csprojAssemblyReference.cache
+E:\Обучение С#\ISD\Struct\Task3\obj\Debug\Task3.exe
+E:\Обучение С#\ISD\Struct\Task3\obj\Debug\Task3.pdb

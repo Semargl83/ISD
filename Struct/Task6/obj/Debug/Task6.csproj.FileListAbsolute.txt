@@ -1,0 +1,6 @@
+E:\Обучение С#\ISD\Struct\Task6\bin\Debug\Task6.exe.config
+E:\Обучение С#\ISD\Struct\Task6\bin\Debug\Task6.exe
+E:\Обучение С#\ISD\Struct\Task6\bin\Debug\Task6.pdb
+E:\Обучение С#\ISD\Struct\Task6\obj\Debug\Task6.csprojAssemblyReference.cache
+E:\Обучение С#\ISD\Struct\Task6\obj\Debug\Task6.exe
+E:\Обучение С#\ISD\Struct\Task6\obj\Debug\Task6.pdb

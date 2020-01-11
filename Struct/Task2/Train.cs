@@ -18,12 +18,12 @@ namespace Task2
             this.departureTime = time;
         }
 
-        public void TrainSort(Train[] trains)
+        public static void TrainSort(Train[] trains)   //сортировка
         {
             int temp;
             for (int i = 0; i < trains.Length-1; i++)
             {
-                for (int j = i+1; j < trains.Length-1; j++)
+                for (int j = i+1; j < trains.Length; j++)
                 {
                     if (trains[i].numberTrain > trains[j].numberTrain)
                     {
